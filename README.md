@@ -1,5 +1,5 @@
-# Yazeed_Portfolio
-My data science portfolio
+# Yazeed's Data Science Portfolio
+
 Hello!
 
 Welcome to my data science portfolio.
