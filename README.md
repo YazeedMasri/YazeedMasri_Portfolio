@@ -12,8 +12,9 @@ I am currently working on other projects to dive further into the fintech space,
 
 Toolkit:
 Pandas,
+Numpy,
 JSON,
-Sklearn,
+Scikit-learn,
 Datetime,
 Jupyter.
 
