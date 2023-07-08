@@ -16,6 +16,8 @@ Numpy,
 JSON,
 Scikit-learn,
 Datetime,
+matplotlib,
+seaborn
 Jupyter.
 
 Future skills:
